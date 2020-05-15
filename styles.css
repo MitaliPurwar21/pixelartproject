@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-family: Dancing Script;
+    font-size: 80px;
+    margin: 0.3em;
+}
+
+h2 {
+    margin: 1em 0 0.3em;
+}
+
+h2:first-of-type {
+    margin-top: 1em;
+}
+
+table,td,tr {
+    border: 2px solid black;
+}
+
+
+td {
+    width: 25px;
+}
+
+tr {
+    height: 25px;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+input[type=number] {
+    width: 5em;
+}
